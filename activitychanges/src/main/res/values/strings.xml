@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ActivityChanges</string>
+    <string name="second_activity"> SecondSecond</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="send">Send</string>
+    <string name="you_password">Your Password</string>
+    <string name="user_information">UserInformation</string>
+    <string name="first_name">First name</string>
+    <string name="last_name">Last name</string>
+    <string name="next">next</string>
+    <string name="enter_email">Enter email</string>
+    <string name="your_password">Your password</string>
+    <string name="conferm_email">Conferm email</string>
+</resources>
